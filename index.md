@@ -3,7 +3,7 @@
 ## Sprintstart 2 - Team 1 - 01.12.2020
 
 | Stand | Wann        | Was | Was genau                                   | Wer                | Wo         |
-| ----- | ----------- | --- | ------------------------------------------- | ------------------ |
+| ----- | ----------- | --- | :------------------------------------------ | :----------------- | :--------- |
 | ⏳     | 15:45-16:00 |     | Begrüßung                                   | coaches            | general    |
 | ⏳     | 16:00-16:05 | SP1 | Erklärung des Schätzverfahrens              | SM                 | team-po-sm |
 | ⏳     | 16:05-17:00 | SP1 | Vorstellung der Stories und Diskussion      | PO                 | team-po-sm |
