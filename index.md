@@ -1,4 +1,5 @@
-# Agenda Sprintstart 2 - Team 1 - 01.12.2020
+# Agenda
+## Sprintstart 2 - Team 1 - 01.12.2020
 
 | Stand | Wann        | Was | Was genau                                   | Wer                | Wo         |
 | ----- | ----------- | --- | ------------------------------------------- | ------------------ |
