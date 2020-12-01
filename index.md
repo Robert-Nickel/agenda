@@ -1,9 +1,6 @@
 # Agenda Sprintstart 2 - 01.12.2020 #
 
 
-| foo | bar |
-| --- | --- |
-| baz | bim |
 
 
 | Stand | Wann        | Was                                           | Wer                      | Wo         |
