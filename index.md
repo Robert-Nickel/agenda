@@ -2,8 +2,8 @@
 
 | Stand | Wann        | Was | Was genau                                   | Wer                | Wo         |
 | ----- | ----------- | --- | :------------------------------------------ | :----------------- | :--------- |
-| ➡️     | 15:45-16:00 |     | Begrüßung                                   | coaches            | general    |
-| ⏳     | 16:00-16:05 | SP1 | Erklärung des Schätzverfahrens              | SM                 | team-po-sm |
+| ✔️     | 15:45-16:00 |     | Begrüßung                                   | coaches            | general    |
+| ➡️     | 16:00-16:05 | SP1 | Erklärung des Schätzverfahrens              | SM                 | team-po-sm |
 | ⏳     | 16:05-17:00 | SP1 | Vorstellung der Stories und Diskussion      | PO                 | team-po-sm |
 | ⏳     | 17:00-17:15 | SP1 | Vorläufige Entscheidung für Sprint Scope    | Dev Team + PO      | team-po-sm |
 | ⏳     | 17:15-17:30 |     | Pause                                       | alle               |            |
@@ -15,4 +15,4 @@
 Legende:  
 ⏳ noch nicht begonnen  
 ➡️ Läuft gerade  
-✔️ Erledigt
+ Erledigt
